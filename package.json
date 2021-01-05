@@ -16,7 +16,7 @@
     "build:dev": "cross-env env_config=dev node build/build.js"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "less": "^3.9.0",
     "less-loader": "^4.1.0",
     "qs": "^6.7.0",
